@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>1.jpg</filename>
-	<path>C:\Users\yusuf\OneDrive\Masaüstü\data\images\train\1.jpg</path>
+	<filename>index.jpg</filename>
+	<path>C:\Users\yusuf\OneDrive\Masaüstü\data\images\train\index.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>259</width>
-		<height>194</height>
+		<width>302</width>
+		<height>167</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>52</ymin>
-			<xmax>247</xmax>
-			<ymax>156</ymax>
+			<xmin>6</xmin>
+			<ymin>19</ymin>
+			<xmax>294</xmax>
+			<ymax>128</ymax>
 		</bndbox>
 	</object>
 </annotation>

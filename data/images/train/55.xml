@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>1.jpg</filename>
-	<path>C:\Users\yusuf\OneDrive\Masaüstü\data\images\train\1.jpg</path>
+	<filename>55.jpg</filename>
+	<path>C:\Users\yusuf\OneDrive\Masaüstü\data\images\train\55.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>52</ymin>
-			<xmax>247</xmax>
-			<ymax>156</ymax>
+			<xmin>45</xmin>
+			<ymin>77</ymin>
+			<xmax>224</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 </annotation>
